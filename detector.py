@@ -23,3 +23,6 @@ for (x, y, h, w) in face: draw.rectangle([x, y, x+h, y+w])
 
 
 img.show()
+
+
+//GONNA BE A FACE RECOGNIZER :)
